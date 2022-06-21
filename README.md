@@ -6,7 +6,7 @@
 
 A tech enthusiast with passion for programming and Front End web development.
 <!--
-**Nemwel-Boniface/Nemwel-Boniface** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IrineAwuor/IrineAwuor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### Hello there, I'm Nemwel :wave:
+### Hello there, I'm Irine :wave:
 -->
 :telescope: I’m on the roadmap to becoming a full-stack software developer, at [ALX Africa](https://www.alxafrica.com/). My passion lies in coming up with great ideas and building something out of those ideas, as well as translating people's ideas into tangible solutions
 - 🔭 I’m currently working on my website. Stay tuned!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C programming
 - 👯 I’m looking to collaborate on any exciting project
-- 🤔 I’m looking for help with advanced JavaScript concepts
+- 🤔 I’m looking for help with advanced C programming concepts
 - 📫 You can reach me at [@IrineAwuor](https://www.linkedin.com/)
 - 💬 Ask me about anything web development and martial arts
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I can program more than 12 hours per day.
