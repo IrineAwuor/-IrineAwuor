@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 :telescope: I’m on the roadmap to becoming a full-stack software developer, at [ALX Africa](https://www.alxafrica.com/). My passion lies in coming up with great ideas and building something out of those ideas, as well as translating people's ideas into tangible solutions
 - 🔭 I’m currently working on my website. Stay tuned!
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning Python language
 - 👯 I’m looking to collaborate on any exciting project
 - 🤔 I’m looking for help with advanced C programming concepts
 - 📫 You can reach me at [@IrineAwuor](https://www.linkedin.com/)
